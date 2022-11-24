@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nalin Singh</h1>
 <h3 align="center">A UI/UX Designer and Developer based in Bangalore, India who is passionate about technology and design.</h3>
 
-- 🔭 I’m currently working on **a Cloud App to track BMTC bus service routes**
-
 - 🌱 I’m currently learning **NextJS, Golang, Docker and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://craftic.webflow.io](https://craftic.webflow.io)

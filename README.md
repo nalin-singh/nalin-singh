@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nalin Singh</h1>
 <h3 align="center">A UI/UX Designer and Developer based in Bangalore, India who is passionate about technology and design.</h3>
 
-- 🌱 I’m currently learning **NextJS, Golang, Docker and Kubernetes**
+- 🌱 I’m currently learning **NextJS, Redux State Management and Implementation of NGINX**
 
 - 👨‍💻 All of my projects are available at [https://craftic.webflow.io](https://craftic.webflow.io)
 

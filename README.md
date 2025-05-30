@@ -8,7 +8,7 @@
 
 - 🔭 Currently building scalable cloud-native platforms at **Koch Industries**
 - 🧠 Passionate about **design systems**, **microservices**, and **generative AI integrations**
-- 🛠️ Key tools: `React`, `TypeScript`, `FastAPI`, `AWS`, `Figma`, `Docker`, `OpenAI APIs`
+- 🛠️ Key tools: `React`, `TypeScript`, `FastAPI`, `AWS`, `Figma`, `Docker`, `Azure Foundary & AWS Bedrock Models`
 - 🏗️ Architected and led projects from 0 → 1 including business-critical internal platforms and high-usage AI tools
 - 🧾 Active contributor to open source and internal tooling (e.g., OCR pipelines, plugin-based AI interfaces)
 - 🧪 Exploring advanced topics like **prompt engineering**, **serverless architecture**, and **CI/CD optimization**

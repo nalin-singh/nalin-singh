@@ -1,36 +1,32 @@
-<h1>Greetings 👋, I'm Nalin Singh</h1>
-<h3>Full-Stack Software Engineer | UI/UX | Generative AI </h3>
+# Nalin Singh
 
-🚀 I’m a Software Engineer based in Bangalore, India, with 3+ years of experience building production-grade full-stack applications, designing scalable backend systems, and crafting clean, intuitive user experiences.
+Software Engineer based in Bangalore. I work across the full stack — backend systems, cloud infrastructure, frontend, and AI integrations. Three years building at the intersection of product and platform, mostly in enterprise SaaS contexts.
 
+I care about how systems are designed before a line of code is written, and how they hold up six months after. Most of what I build ends up being used by people who never asked for software — which means the UX and reliability bar is higher than it looks from the outside.
 
-### 👨‍💻 About Me
+---
 
-- 🔭 Currently building scalable cloud-native platforms at **Koch Industries**
-- 🧠 Passionate about **design systems**, **microservices**, and **generative AI integrations**
-- 🛠️ Key tools: `React`, `TypeScript`, `FastAPI`, `AWS`, `Figma`, `Docker`, `Azure Foundary & AWS Bedrock Models`
-- 🏗️ Architected and led projects from 0 → 1 including business-critical internal platforms and high-usage AI tools
-- 🧾 Active contributor to open source and internal tooling (e.g., OCR pipelines, plugin-based AI interfaces)
+### What I'm focused on
 
-### 📫 Let’s Connect
+Agentic AI systems — not the demo kind. Designing agent architectures that are actually maintainable, observable, and safe to ship to non-technical users.
 
-- Twitter: [@themaskeddev](https://twitter.com/themaskeddev)  
-- Email: **hellocraftic@gmail.com**  
-- Medium: [@nalin-singh](https://medium.com/@nalin-singh)
+Developer experience — internal tooling, bootstrapping patterns, and the kind of abstractions that make a team faster without creating a mess for the next person.
 
+Design quality in engineering — I use Figma, care about visual systems, and think the gap between "works" and "good" is usually just attention.
 
-### 🛠️ Tech Stack
+---
 
-#### Languages
-`JavaScript` `TypeScript` `Python` `SQL`
+### Stack
 
-#### Frontend
-`React` `Next.js` `Redux` `TailwindCSS` `Material UI` `Shadcn/ui` `Figma` `Framer` `Webflow`
-
-#### Backend & DevOps
-`FastAPI` `Docker` `Serverless Framework` `AWS (Lambda, CDK, SES, Textract)` `Azure OpenAI` `JWT Auth` `SAML SSO`
-
-#### Tools & Platforms
-`Git` `Postman` `Zapier` `GitLab CI/CD` `Photoshop` `Adobe XD` `Kubernetes`
+```
+Languages     TypeScript · Python · JavaScript
+Frontend      React · Next.js · Redux · TailwindCSS · Shadcn/ui
+Backend       FastAPI · Node · REST · NATS (Pub/Sub + JetStream) · RBAC · SAML SSO
+Cloud         AWS (Lambda · CDK · S3 · DynamoDB · Bedrock · AgentCore · Textract)
+DevOps        Docker · GitLab CI/CD · ArgoCD · Serverless Framework
+Observability Datadog
+AI/LLM        Anthropic Claude · AWS Bedrock · Azure OpenAI · Strands SDK
+Design        Figma · Framer · Webflow
+```
 
 ---
